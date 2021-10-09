@@ -1,0 +1,25 @@
+body {
+    background-color: #19334d;
+}
+
+.col > .container-sm {
+    margin-top: 100px;
+}
+
+.main-title, .bio{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+button img{
+    height: 25px;
+}
+
+.working-link{
+    text-decoration: none;
+    color: white;
+}
+
+.working-link:hover{
+    color: #F34F1C;
+}
